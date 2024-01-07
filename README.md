@@ -1,6 +1,6 @@
-<h1 align="Center"> Easy Shopping </h1>
+<h1 align="Center"> EASY SHOPPING </h1>
 
-Desktop
+Notbook
 
 <img src="./src/notbook.png" width="380" > 
 <br>
@@ -19,7 +19,7 @@ O projeto foi um marco significativo em meus estudos e na minha vida como progra
 
 ### Tecnologias usadas:
 
-- HTML 
-- CSS
-- RESPONSIVIDADE
+- Html
+- Css
+- Responsividade
 
