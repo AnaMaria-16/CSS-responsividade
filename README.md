@@ -1,4 +1,5 @@
-<h1 align="Center"> EASY SHOPPING </h1>
+<h1 align="Center"> Easy Shopping  </h1>
+
 
 Notbook
 
