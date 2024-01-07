@@ -18,12 +18,8 @@ O projeto foi um marco significativo em meus estudos e na minha vida como progra
 </h4>
 
 ### Tecnologias usadas:
-<<<<<<< HEAD
+
 - HTML 
 - CSS
 - RESPONSIVIDADE
-=======
--   HTML
--   CSS
--   RESPONSIVIDADE
->>>>>>> 8badbb9b5990b12e6a1bc19dd9b0396c5415280a
+
